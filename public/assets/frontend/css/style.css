@@ -1,0 +1,17 @@
+.slider-box{
+	border: 10px solid #ffffff36;
+    border-radius: 5px;
+   	height: 320px;
+    overflow: hidden;
+}
+.silder-box img{
+	height: auto;
+	width: 100%;
+}
+.gallery-item {
+  position: relative;
+}
+.gallery-item img {
+  opacity: 1;
+  transition: opacity 0.35s;
+}
